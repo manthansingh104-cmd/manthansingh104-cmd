@@ -1,5 +1,52 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building my foundation in Computer Science and developing projects using React, JavaScript, HTML, and CSS.<br><br>🤝 I’m looking to collaborate on<br>Frontend development projects, AI & ML projects, and open-source opportunities where I can learn and contribute.<br><br>🤔 I’m looking for help with<br>Improving my development skills, learning advanced programming concepts, and gaining real-world project experience.<br><br>🌱 I’m currently learning<br>React, JavaScript, Python, Artificial Intelligence, Machine Learning, and modern software development practices.<br><br>💬 Ask me about<br>Web development, programming, AI & ML, my learning journey, and my projects.<br><br>⚡ Fun fact<br>I’m a first-year Computer Science student who loves exploring new technologies and turning ideas into projects.<br><br>🛠️ Skills<br>• C Programming  <br>• Python  <br>• JavaScript  <br>• React.js  <br>• HTML5  <br>• CSS3  <br>• Web Development  <br>• Frontend Development  <br>• Artificial Intelligence  <br>• Machine Learning  <br>• Problem Solving  <br>• Git & GitHub
+
+👋 Hi, I'm a **B.Tech Computer Science Engineering student** passionate about technology, programming, and building innovative solutions.
+
+🔭 I’m currently working on
+Building my skills in software development and creating projects using **React, JavaScript, HTML, CSS, and Python** while strengthening my computer science fundamentals.
+
+🤝 I’m looking to collaborate on
+**Frontend development projects, AI & ML projects, and open-source contributions** where I can learn, share knowledge, and grow with the developer community.
+
+🌱 I’m currently learning
+**React.js, JavaScript, Python, Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and modern software development practices.**
+
+🤔 I’m looking for help with
+Improving my coding skills, exploring advanced technologies, building real-world projects, and gaining practical development experience.
+
+💬 Ask me about
+**Web Development, Programming, AI & ML, my projects, and my journey as a Computer Science student.**
+
+⚡ Fun fact
+I enjoy exploring new technologies, solving problems, and transforming creative ideas into meaningful projects.
+
+## 🛠️ Technical Skills:
+
+**Languages:**
+• C Programming
+• Python
+• JavaScript
+• HTML5
+• CSS3
+
+**Frontend Development:**
+• React.js
+• Responsive Web Development
+• UI Development
+
+**AI & Machine Learning:**
+• Artificial Intelligence
+• Machine Learning Fundamentals
+• Python for Data & ML
+
+**Tools & Technologies:**
+• Git & GitHub
+• VS Code
+• Web Development
+• Problem Solving
+
+🚀 Always learning, always building, and always exploring new possibilities in technology.
+
 
 
 ## 🌐 Socials:
