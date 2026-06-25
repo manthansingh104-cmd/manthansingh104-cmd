@@ -68,9 +68,9 @@ const manthan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&langs_count=8" height="180" />
 
 <br/><br/>
 
