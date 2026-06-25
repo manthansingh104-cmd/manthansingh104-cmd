@@ -80,33 +80,11 @@ const manthan = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manthansingh104-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&type=MultiCommit,Commit,Issues,PullRequest" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=manthansingh104-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&type=Repositories,Stars,Followers,Experience" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manthansingh104-cmd&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff)](https://github.com/manthansingh104-cmd)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=manthansingh104-cmd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
