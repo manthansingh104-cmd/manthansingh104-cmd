@@ -68,9 +68,9 @@ const manthan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&cache_seconds=1800" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansingh104-cmd&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&langs_count=8&cache_seconds=1800" height="180" />
 
 <br/><br/>
 
@@ -84,7 +84,9 @@ const manthan = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=manthansingh104-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=manthansingh104-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&type=MultiCommit,Commit,Issues,PullRequest" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=manthansingh104-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&type=Repositories,Stars,Followers,Experience" />
 
 </div>
 
@@ -104,7 +106,7 @@ const manthan = {
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=manthansingh104-cmd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=manthansingh104-cmd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
